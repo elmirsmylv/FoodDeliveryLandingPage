@@ -4,7 +4,7 @@ This is a mobile, tablet and desktop responsive landing page. It has nice scroll
 
 ### Here is the live demo
 
-[Food Delivery](https://food-delivery.vercel.app/)
+[Food Delivery](https://food-delivery-psi.vercel.app/)
 
 ![Ekran Resmi 2021-07-31 11 31 42](https://user-images.githubusercontent.com/59176193/127732582-a6181b39-eb89-48a1-83e5-3ca41fec3a21.png)
 
