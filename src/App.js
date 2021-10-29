@@ -8,7 +8,6 @@ import Phone2 from "./assets/Phone2.jpg";
 import Phone3 from "./assets/Phone3.jpg";
 import Bottom from "./pages/Bottom/Bottom";
 import Footer from "./pages/Footer/Footer";
-import { VerticleButton as ScrollUpButton } from "react-scroll-up-button";
 
 function App() {
   return (
@@ -35,7 +34,6 @@ function App() {
       />
       <Bottom />
       <Footer />
-      <ScrollUpButton style={{ backgroundColor: "#fa4a0c", color: "#fff" }} />
     </div>
   );
 }
